@@ -1,5 +1,5 @@
 
-![repository-open-graph-template (1)](https://github.com/user-attachments/assets/f778bb6e-e553-46d9-b949-7ab0aa25c758)
+![f23c0447-02c3-4463-afbe-75845bcc156a](https://github.com/user-attachments/assets/d1b3b3c4-3b52-4de0-8094-1fe9e4c71301)
 
 
 - 👋 Hi, I’m @ADALIGO
