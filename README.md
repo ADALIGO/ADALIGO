@@ -4,43 +4,51 @@
       👋 Hi, I’m [@ADALIGO]!
       🚀 Full-Stack Developer | MERN & Next.js Enthusiast | Building Scalable Apps
 
-I'm a passionate full-stack developer with a focus on creating high-performance web applications. I specialize in React.js, Next.js, Node.js, Prisma, and PostgreSQL/MongoDB, and I'm constantly exploring new technologies to push the limits of innovation.
+𝕀'𝕞 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕗𝕦𝕝𝕝-𝕤𝕥𝕒𝕔𝕜 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕨𝕚𝕥𝕙 𝕒 𝕗𝕠𝕔𝕦𝕤 𝕠𝕟 𝕔𝕣𝕖𝕒𝕥𝕚𝕟𝕘 𝕙𝕚𝕘𝕙-𝕡𝕖𝕣𝕗𝕠𝕣𝕞𝕒𝕟𝕔𝕖 𝕨𝕖𝕓 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤. 𝕀 𝕤𝕡𝕖𝕔𝕚𝕒𝕝𝕚𝕫𝕖 𝕚𝕟 ℝ𝕖𝕒𝕔𝕥.𝕛𝕤, ℕ𝕖𝕩𝕥.𝕛𝕤, ℕ𝕠𝕕𝕖.𝕛𝕤, ℙ𝕣𝕚𝕤𝕞𝕒, 𝕒𝕟𝕕 ℙ𝕠𝕤𝕥𝕘𝕣𝕖𝕊ℚ𝕃/𝕄𝕠𝕟𝕘𝕠𝔻𝔹, 𝕒𝕟𝕕 𝕀'𝕞 𝕔𝕠𝕟𝕤𝕥𝕒𝕟𝕥𝕝𝕪 𝕖𝕩𝕡𝕝𝕠𝕣𝕚𝕟𝕘 𝕟𝕖𝕨 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 𝕥𝕠 𝕡𝕦𝕤𝕙 𝕥𝕙𝕖 𝕝𝕚𝕞𝕚𝕥𝕤 𝕠𝕗 𝕚𝕟𝕟𝕠𝕧𝕒𝕥𝕚𝕠𝕟.
 
      🔹 Tech Stack:
 
-Frontend: React.js, Next.js, TypeScript, SCSS
-Backend: Node.js, Express.js, Prisma
-Database: PostgreSQL, MongoDB
-DevOps: Vercel, GitHub, CI/CD
+𝔽𝕣𝕠𝕟𝕥𝕖𝕟𝕕: ℝ𝕖𝕒𝕔𝕥.𝕛𝕤, ℕ𝕖𝕩𝕥.𝕛𝕤, 𝕋𝕪𝕡𝕖𝕊𝕔𝕣𝕚𝕡𝕥, 𝕊ℂ𝕊𝕊 𝔹𝕒𝕔𝕜𝕖𝕟𝕕: ℕ𝕠𝕕𝕖.𝕛𝕤, 𝔼𝕩𝕡𝕣𝕖𝕤𝕤.𝕛𝕤, ℙ𝕣𝕚𝕤𝕞𝕒 𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖: ℙ𝕠𝕤𝕥𝕘𝕣𝕖𝕊ℚ𝕃, 𝕄𝕠𝕟𝕘𝕠𝔻𝔹 𝔻𝕖𝕧𝕆𝕡𝕤: 𝕍𝕖𝕣𝕔𝕖𝕝, 𝔾𝕚𝕥ℍ𝕦𝕓, ℂ𝕀/ℂ𝔻
+
 
      💡 What I'm Working On:
 
-Building Need for Drive, a global car rental platform
-Developing social media features with AI-driven engagement
-Creating a music streaming experience integrated into web apps
+
+𝔹𝕦𝕚𝕝𝕕𝕚𝕟𝕘 ℕ𝕖𝕖𝕕 𝕗𝕠𝕣 𝔻𝕣𝕚𝕧𝕖, 𝕒 𝕘𝕝𝕠𝕓𝕒𝕝 𝕔𝕒𝕣 𝕣𝕖𝕟𝕥𝕒𝕝 𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞
+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕚𝕟𝕘 𝕤𝕠𝕔𝕚𝕒𝕝 𝕞𝕖𝕕𝕚𝕒 𝕗𝕖𝕒𝕥𝕦𝕣𝕖𝕤 𝕨𝕚𝕥𝕙 𝔸𝕀-𝕕𝕣𝕚𝕧𝕖𝕟 𝕖𝕟𝕘𝕒𝕘𝕖𝕞𝕖𝕟𝕥 
+ℂ𝕣𝕖𝕒𝕥𝕚𝕟𝕘 𝕒 𝕞𝕦𝕤𝕚𝕔 𝕤𝕥𝕣𝕖𝕒𝕞𝕚𝕟𝕘 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 𝕚𝕟𝕥𝕖𝕘𝕣𝕒𝕥𝕖𝕕 𝕚𝕟𝕥𝕠 𝕨𝕖𝕓 𝕒𝕡𝕡𝕤
+
     
      📌 My Goals:
     
-✔ Scale applications globally
-✔ Ensure top-notch security & performance
-✔ Innovate with AI and real-time features
+
+✔ 𝕊𝕔𝕒𝕝𝕖 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤 𝕘𝕝𝕠𝕓𝕒𝕝𝕝𝕪 
+✔ 𝔼𝕟𝕤𝕦𝕣𝕖 𝕥𝕠𝕡-𝕟𝕠𝕥𝕔𝕙 𝕤𝕖𝕔𝕦𝕣𝕚𝕥𝕪 & 𝕡𝕖𝕣𝕗𝕠𝕣𝕞𝕒𝕟𝕔𝕖 
+✔ 𝕀𝕟𝕟𝕠𝕧𝕒𝕥𝕖 𝕨𝕚𝕥𝕙 𝔸𝕀 𝕒𝕟𝕕 𝕣𝕖𝕒𝕝-𝕥𝕚𝕞𝕖 𝕗𝕖𝕒𝕥𝕦𝕣𝕖𝕤
+
 
      🔥 About Me
+
+
     
-👀 I’m interested in building next-gen web platforms, AI-driven applications, and real-time chat systems.
-🌱 I’m currently learning advanced TypeScript, microservices, and AI-powered development.
-💞️ I’m looking to collaborate on open-source projects, scalable SaaS platforms, and AI-integrated web apps.
-📫 How to reach me: [Your Email] | [Your LinkedIn] | [Your Twitter/X]
-😄 Pronouns: He/Him (or add your preference!)
-⚡ Fun fact: I can turn caffeine into code ☕💻
-💬 Let's Connect!
 
 
-🚀 I'm always open to collaboration and new opportunities. Feel free to check out my repositories or reach out! 🚀
+👀 𝕀’𝕞 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕖𝕕 𝕚𝕟 𝕓𝕦𝕚𝕝𝕕𝕚𝕟𝕘 𝕟𝕖𝕩𝕥-𝕘𝕖𝕟 𝕨𝕖𝕓 𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤, 𝔸𝕀-𝕕𝕣𝕚𝕧𝕖𝕟 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤, 𝕒𝕟𝕕 𝕣𝕖𝕒𝕝-𝕥𝕚𝕞𝕖 𝕔𝕙𝕒𝕥 𝕤𝕪𝕤𝕥𝕖𝕞𝕤. 
+🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕒𝕕𝕧𝕒𝕟𝕔𝕖𝕕 𝕋𝕪𝕡𝕖𝕊𝕔𝕣𝕚𝕡𝕥, 𝕞𝕚𝕔𝕣𝕠𝕤𝕖𝕣𝕧𝕚𝕔𝕖𝕤, 𝕒𝕟𝕕 𝔸𝕀-𝕡𝕠𝕨𝕖𝕣𝕖𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥. 
+💞️ 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 𝕠𝕡𝕖𝕟-𝕤𝕠𝕦𝕣𝕔𝕖 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤, 𝕤𝕔𝕒𝕝𝕒𝕓𝕝𝕖 𝕊𝕒𝕒𝕊 𝕡𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤, 𝕒𝕟𝕕 𝔸𝕀-𝕚𝕟𝕥𝕖𝕘𝕣𝕒𝕥𝕖𝕕 𝕨𝕖𝕓 𝕒𝕡𝕡𝕤. 
+📫 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖: [𝕐𝕠𝕦𝕣 𝔼𝕞𝕒𝕚𝕝] | [𝕐𝕠𝕦𝕣 𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟] | [𝕐𝕠𝕦𝕣 𝕋𝕨𝕚𝕥𝕥𝕖𝕣/𝕏] 
+😄 ℙ𝕣𝕠𝕟𝕠𝕦𝕟𝕤: ℍ𝕖/ℍ𝕚𝕞 (𝕠𝕣 𝕒𝕕𝕕 𝕪𝕠𝕦𝕣 𝕡𝕣𝕖𝕗𝕖𝕣𝕖𝕟𝕔𝕖!) 
+⚡ 𝔽𝕦𝕟 𝕗𝕒𝕔𝕥: 𝕀 𝕔𝕒𝕟 𝕥𝕦𝕣𝕟 𝕔𝕒𝕗𝕗𝕖𝕚𝕟𝕖 𝕚𝕟𝕥𝕠 𝕔𝕠𝕕𝕖 ☕💻 
+💬 𝕃𝕖𝕥'𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥!
+
+
+🚀 𝕀'𝕞 𝕒𝕝𝕨𝕒𝕪𝕤 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕚𝕠𝕟 𝕒𝕟𝕕 𝕟𝕖𝕨 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤. 𝔽𝕖𝕖𝕝 𝕗𝕣𝕖𝕖 𝕥𝕠 𝕔𝕙𝕖𝕔𝕜 𝕠𝕦𝕥 𝕞𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤 𝕠𝕣 𝕣𝕖𝕒𝕔𝕙 𝕠𝕦𝕥! 🚀
 
 
 
-<!---
-ADALIGO/ADALIGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+
+<!--- 
+🅰🅳🅰🅻🅸🅶🅾/🅰🅳🅰🅻🅸🅶🅾 🅸🆂 🅰 ✨ 🆂🅿🅴🅲🅸🅰🅻 ✨ 🆁🅴🅿🅾🆂🅸🆃🅾🆁🆈 🅱🅴🅲🅰🆄🆂🅴 🅸🆃🆂 `🆁🅴🅰🅳🅼🅴.🅼🅳` (🆃🅷🅸🆂 🅵🅸🅻🅴) 🅰🅿🅿🅴🅰🆁🆂 🅾🅽 🆈🅾🆄🆁 🅶🅸🆃🅷🆄🅱 🅿🆁🅾🅵🅸🅻🅴.
+🆈🅾🆄 🅲🅰🅽 🅲🅻🅸🅲🅺 🆃🅷🅴 🅿🆁🅴🆅🅸🅴🆆 🅻🅸🅽🅺 🆃🅾 🆃🅰🅺🅴 🅰 🅻🅾🅾🅺 🅰🆃 🆈🅾🆄🆁 🅲🅷🅰🅽🅶🅴🆂.
 --->
