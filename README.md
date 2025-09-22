@@ -1,5 +1,5 @@
 
-![f23c0447-02c3-4463-afbe-75845bcc156a]([https://github.com/user-attachments/assets/d1b3b3c4-3b52-4de0-8094-1fe9e4c71301](https://res.cloudinary.com/dqbezy7ge/image/upload/v1758317610/users/google-fallback-1758317569858/avatars/ctrdhow3dpyksea8wo8e.png))
+![f23c0447-02c3-4463-afbe-75845bcc156a](https://res.cloudinary.com/dqbezy7ge/image/upload/v1758317610/users/google-fallback-1758317569858/avatars/ctrdhow3dpyksea8wo8e.png))
  
       👋 Hi, I’m [@ADALIGO]!
       🚀 Full-Stack Developer | MERN & Next.js Enthusiast | Building Scalable Apps
